@@ -25,7 +25,7 @@
 
 - 首頁
     
-    ![alt text](https://github.com/yuhswang/HouseShip.git/blob/master/showViews/01.png?raw=true)
+    ![首頁](https://github.com/yuhswang/HouseShip/blob/master/showViews/01.png?raw=true)
     
 - 查詢結果
     
