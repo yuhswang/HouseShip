@@ -25,7 +25,7 @@
 
 - 首頁
     
-    ![Untitled](House%20Booking%20Application%20with%20SpringBoot%203e1324a9859b4daabb044bab4209bc96/Untitled.png)
+    ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
     
 - 查詢結果
     
